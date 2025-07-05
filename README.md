@@ -13,6 +13,9 @@ The app allows users to browse movies by popularity, rating, and upcoming releas
 - 📱 Fully responsive UI
 - 🌙 Dark mode for late-night binge sessions
 
+## 🌐 Live Demo
+Check out the deployed app on Vercel: [state-of-cinema.vercel.app](https://state-of-cinema.vercel.app/)
+
 ## Installation
 1. Clone the repository:
    Next, 
