@@ -1,0 +1,31 @@
+.app {
+    display: grid;
+    grid-template-rows: 80px auto;
+}
+
+.footer {
+    width: 100%;
+    padding: 24px 0 16px 0;
+    text-align: center;
+    border-top: 1px solid #e6e6e6;
+    margin-top: 40px;
+    font-size: 1rem;
+    font-weight: 450;
+    letter-spacing: 0.5px;
+}
+
+.footer-content {
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    .footer {
+        font-size: 0.95rem;
+        padding: 18px 0 10px 0;
+    }
+}
