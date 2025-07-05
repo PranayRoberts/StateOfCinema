@@ -15,8 +15,9 @@ The app allows users to browse movies by popularity, rating, and upcoming releas
 
 ## Installation
 1. Clone the repository:
+   Next, 
    ```bash
-   Next, cd stateofcinema
+   cd stateofcinema
    ```
 2. Install dependencies:
    ```bash
